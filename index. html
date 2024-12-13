@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Axel Huerta</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            text-align: center;
+        }
+
+        header {
+            background-color: #333;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1rem;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 50px 20px;
+        }
+
+        footer {
+            background-color: #333;
+            padding: 10px 0;
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+
+        footer a {
+            color: #aaa;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Axel Huerta</h1>
+        <p>Bienvenido a mi página personal</p>
+    </header>
+
+    <nav>
+        <a href="#biografia">Biografía</a>
+        <a href="#proyectos">Proyectos</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+    <main>
+        <p>¡Hola! Soy Axel Huerta y esta es mi página web personal. Aquí encontrarás información sobre mí y mis proyectos.</p>
+    </main>
+
+    <footer>
+        &copy; 2024 Página dedicada a Axel Huerta. Todos los derechos reservados.<br>
+        <a href="http://3.89.19.172" target="_blank">Visita mi página en 3.89.19.172</a>
+    </footer>
+</body>
+</html>
